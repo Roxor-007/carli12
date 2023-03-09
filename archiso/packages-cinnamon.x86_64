@@ -38,8 +38,6 @@ grub
 hdparm
 hyperv
 intel-ucode
-#ipw2100-fw
-#ipw2200-fw
 irssi
 iw
 iwd
@@ -62,6 +60,7 @@ man-pages
 mc
 mdadm
 memtest86+
+memtest86+-efi
 mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
@@ -124,7 +123,7 @@ xl2tpd
 zsh
 
 #Carli Desktop
-carli-grub-poly-light
+#carli-grub-poly-light
 carli-grub-poly-dark
 sddm
 sddm-elegant-theme-git

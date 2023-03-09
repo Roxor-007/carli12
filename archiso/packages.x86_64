@@ -129,8 +129,12 @@ sddm
 sddm-elegant-theme-git
 bash-completion
 carli-keyring
-xfce4
-xfce4-goodies
+cinnamon
+gnome-terminal
+dconf-editor
+#nemo-fileroller
+#nemo-compare
+#gnome-terminal
 
 #Calamares
 calamares
@@ -167,6 +171,7 @@ capitaine-cursors
 
 #desktop related
 carli-xfce-config
+#carli-cinnamon-config
 file-roller
 gvfs
 gvfs-smb
