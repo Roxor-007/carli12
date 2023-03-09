@@ -132,9 +132,9 @@ carli-keyring
 cinnamon
 gnome-terminal
 dconf-editor
-#nemo-fileroller
-#nemo-compare
-#gnome-terminal
+nemo-fileroller
+nemo-compare
+meld
 
 #Calamares
 calamares
@@ -170,8 +170,8 @@ arc-gtk-theme
 capitaine-cursors
 
 #desktop related
-carli-xfce-config
-#carli-cinnamon-config
+#carli-xfce-config
+carli-cinnamon-config
 file-roller
 gvfs
 gvfs-smb
