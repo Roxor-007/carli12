@@ -12,6 +12,11 @@ echo "Changing into our own linux.preset"
 echo "#################################"
 mv /etc/mkinitcpio.d/carli /etc/mkinitcpio.d/linux.preset
 
+echo "Putting grub theme in again"
+echo "#################################"
+mkdir -p /boot/grub/themes
+cp -Rf /usr/share/grub/themes/viper /boot/grub/themes/
+
 echo "#################################"
 echo "End carli-before"
 echo "#################################"
