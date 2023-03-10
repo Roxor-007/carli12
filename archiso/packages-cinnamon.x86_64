@@ -130,8 +130,11 @@ sddm-elegant-theme-git
 bash-completion
 carli-keyring
 cinnamon
-nemo-fileroller
 gnome-terminal
+dconf-editor
+nemo-fileroller
+nemo-compare
+meld
 
 #Calamares
 calamares
@@ -149,3 +152,29 @@ neofetch
 #carli-neofetch
 sublime-text-4
 networkmanager
+
+#sound
+pipewire
+pipewire-alsa
+pipewire-jack
+pipewire-zeroconf
+pipewire-pulse
+pavucontrol
+
+#bluetooth
+blueberry
+
+#design
+papirus-icon-theme
+arc-gtk-theme
+capitaine-cursors
+
+#desktop related
+#carli-xfce-config
+carli-cinnamon-config
+file-roller
+gvfs
+gvfs-smb
+xdg-user-dirs-gtk
+lsb-release
+firefox
