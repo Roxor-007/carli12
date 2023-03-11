@@ -126,7 +126,7 @@ zsh
 #carli-grub-poly-light
 #carli-grub-poly-dark
 sddm
-sddm-elegant-theme-git
+#sddm-elegant-theme-git
 bash-completion
 carli-keyring
 cinnamon
@@ -179,3 +179,4 @@ xdg-user-dirs-gtk
 lsb-release
 firefox
 carli-viper-grub-theme-git
+carli-sddm-viper-theme-git
