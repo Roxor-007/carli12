@@ -26,8 +26,27 @@ echo "EDITOR=nano" >> /etc/profile
 #Original cleanup
 echo "Cleanup original files"
 echo "#################################"
+# mkinitcpio
 rm -f /etc/mkinitcpio.conf.d/archiso.conf
+rm -rf /etc/mkinitcpio.conf.d/
+# ssh
 rm -f /etc/ssh/sshd_config.d/10-archiso.conf
+# mirror
+rm -f /etc/systemd/system/multi-user.target.wants/choose-mirror.service
+rm -f /etc/systemd/system/choose-mirror.service
+rm -f /usr/local/bin/choose-mirror
+# sound
+rm -f /etc/systemd/system/multi-user.target.wants/livecd-talk.service
+rm -f /etc/systemd/system/livecd-alsa-unmuter.service
+rm -f /etc/systemd/system/sound.target.wants/livecd-alsa-unmuter.service
+rm -f /etc/systemd/system/livecd-talk.service
+# reflector
+rm -f /etc/systemd/system/reflector.service.d/archiso.conf
+rm -rf /etc/systemd/system/reflector.service.d
+# resolv
+rm -f /etc/systemd/resolved.conf.d/archiso.conf
+rm -rf /etc/systemd/resolved.conf.d/
+
 rm -f /etc/sudoers.d/g_wheel
 rm -f /etc/polkit-1/rules.d/49-nopasswd_global.rules
 rm /root/{.automated_script.sh,.zlogin}
