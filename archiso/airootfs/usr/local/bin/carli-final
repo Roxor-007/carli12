@@ -26,6 +26,8 @@ echo "EDITOR=nano" >> /etc/profile
 #Original cleanup
 echo "Cleanup original files"
 echo "#################################"
+rm -f /etc/mkinitcpio.conf.d/archiso.conf
+rm -f /etc/ssh/sshd_config.d/10-archiso.conf
 rm -f /etc/sudoers.d/g_wheel
 rm -f /etc/polkit-1/rules.d/49-nopasswd_global.rules
 rm /root/{.automated_script.sh,.zlogin}
