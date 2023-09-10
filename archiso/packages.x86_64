@@ -129,17 +129,14 @@ zsh
 
 #Carli Desktop
 #carli-grub-poly-light
-#carli-grub-poly-dark
+carli-grub-poly-dark
 sddm
-#sddm-elegant-theme-git
+sddm-elegant-theme-git
 bash-completion
 carli-keyring
-cinnamon
-gnome-terminal
-dconf-editor
-nemo-fileroller
-nemo-compare
 meld
+xfce4
+xfce4-goodies
 
 #Calamares
 calamares
@@ -175,13 +172,30 @@ arc-gtk-theme
 capitaine-cursors
 
 #desktop related
-#carli-xfce-config
-carli-cinnamon-config
+carli-xfce-config
 file-roller
 gvfs
 gvfs-smb
 xdg-user-dirs-gtk
 lsb-release
+yakuake
+zsh-completions
+zsh-syntax-highlighting
+oh-my-zsh-git
+p7zip
+unace
+unrar
+unzip
+grub-customizer
+archlinux-tweak-tool-dev-git
+upower
 firefox
 carli-viper-grub-theme-git
 carli-sddm-viper-theme-git
+arcolinux-system-config-git
+arcob-calamares-config-xfce-git
+arcolinux-xfce-dconf-git
+arcolinux-config-xfce-git
+arcolinux-local-xfce4-git
+xf86-video-amdgpu
+xf86-video-ati
