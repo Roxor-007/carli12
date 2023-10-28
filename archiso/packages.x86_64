@@ -34,7 +34,6 @@ gnu-netcat
 gpart
 gpm
 gptfdisk
-grml-zsh-config
 grub
 hdparm
 hyperv
@@ -193,9 +192,6 @@ zsh-autosuggestions
 zsh-theme-powerlevel10k-git
 oh-my-zsh-git
 ttf-meslo-nerd-font-powerlevel10k
-qogir-gtk-theme
-qogir-icon-theme
-qogir-kde-theme-git
 bibata-cursor-theme
 p7zip
 unace
@@ -211,7 +207,18 @@ xf86-video-amdgpu
 xf86-video-ati
 archlinux-tweak-tool-git
 visual-studio-code-bin
-
+surfn-plasma-dark-icons-git
+surfn-plasma-dark-tela-icons-git
+ast-firmware
+kde-gtk-config
+ark
+sddm-kcm
+ttf-font-awesome
+ttf-ms-fonts
+rate-mirrors-bin
+arcolinux-root-git
+arcolinux-zsh-git
+arcolinux-sddm-simplicity-git
 arcolinux-plasma-kservices-git
 arcolinux-plasma-git
 arcolinux-plasma-dconf-git
