@@ -47,6 +47,7 @@ iwd
 jfsutils
 kitty-terminfo
 less
+ldns
 lftp
 libfido2
 libusb-compat

@@ -4,7 +4,9 @@ arch-install-scripts
 archinstall
 b43-fwcutter
 base
+bcachefs-tools
 bind
+bolt
 brltty
 broadcom-wl
 btrfs-progs
@@ -45,6 +47,7 @@ iwd
 jfsutils
 kitty-terminfo
 less
+ldns
 lftp
 libfido2
 libusb-compat
