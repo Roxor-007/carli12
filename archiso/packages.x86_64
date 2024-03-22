@@ -132,17 +132,13 @@ zsh
 
 #Carli Desktop
 #carli-grub-poly-light
-#carli-grub-poly-dark
+carli-grub-poly-dark
 sddm
-#sddm-elegant-theme-git
+sddm-elegant-theme-git
 bash-completion
 carli-keyring
-cinnamon
-gnome-terminal
-dconf-editor
-nemo-fileroller
-nemo-compare
-meld
+xfce4
+xfce4-goodies
 
 #Calamares
 calamares
@@ -178,13 +174,9 @@ arc-gtk-theme
 capitaine-cursors
 
 #desktop related
-#carli-xfce-config
-carli-cinnamon-config
+carli-xfce-config
 file-roller
 gvfs
 gvfs-smb
 xdg-user-dirs-gtk
 lsb-release
-firefox
-carli-viper-grub-theme-git
-carli-sddm-viper-theme-git
