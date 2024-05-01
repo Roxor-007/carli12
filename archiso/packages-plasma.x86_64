@@ -157,7 +157,7 @@ os-prober
 #Software
 git
 base-devel
-yay-bin
+yay-git
 neofetch
 #carli-neofetch
 sublime-text-4
