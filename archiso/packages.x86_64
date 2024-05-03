@@ -46,8 +46,8 @@ iw
 iwd
 jfsutils
 kitty-terminfo
-ldns
 less
+ldns
 lftp
 libfido2
 libusb-compat
@@ -131,18 +131,20 @@ xl2tpd
 zsh
 
 #Carli Desktop
-#carli-grub-poly-light
-#carli-grub-poly-dark
+carli-grub-poly-light
+carli-grub-poly-dark
 sddm
-#sddm-elegant-theme-git
+sddm-elegant-theme-git
 bash-completion
 carli-keyring
-cinnamon
-gnome-terminal
-dconf-editor
-nemo-fileroller
-nemo-compare
-meld
+plasma
+#kde-applications-meta
+packagekit-qt5
+partitionmanager
+dolphin
+konsole
+kate
+kinit
 
 #Calamares
 calamares
@@ -160,31 +162,3 @@ neofetch
 #carli-neofetch
 sublime-text-4
 networkmanager
-
-#sound
-pipewire
-pipewire-alsa
-pipewire-jack
-pipewire-zeroconf
-pipewire-pulse
-pavucontrol
-
-#bluetooth
-blueberry
-
-#design
-papirus-icon-theme
-arc-gtk-theme
-capitaine-cursors
-
-#desktop related
-#carli-xfce-config
-carli-cinnamon-config
-file-roller
-gvfs
-gvfs-smb
-xdg-user-dirs-gtk
-lsb-release
-firefox
-carli-viper-grub-theme-git
-carli-sddm-viper-theme-git
